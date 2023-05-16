@@ -63,6 +63,12 @@ html {
   box-sizing: inherit;
 }
 
+
+.burger {
+  display: none;
+}
+
+
 a {
   color: inherit;
   text-decoration: none;
@@ -126,7 +132,7 @@ body {
   border: none;
   position: absolute;
   height: 21.55px;
-  left: 1815px;
+  /* left: 1815px; */
   top: 40px;
 }
 
@@ -413,14 +419,12 @@ body {
 
 .how-we-work-text {
   margin: 0;
-  min-width: 1;
-  max-width: 1 ;
   width: 758px;
   font-weight: 400;
   font-size: 16px;
   line-height: 32px;
   margin-bottom: 50px;
-  height: 320px;
+
 }
 
 
